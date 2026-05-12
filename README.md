@@ -155,34 +155,34 @@ Press `J`
 
 ## Home Screen
 
-![Home Screen](Screenshots/home.png)
+![Home Screen](Screenshots/screenshotshome.png)
 
 ---
 
 ## Instruction Screen
 
-![Instruction](Screenshots/instruction.png)
+![Instruction](Screenshots/screenshotsinstruction.png)
 
 ---
 
 ## Railway Station Scene
 
-![Railway Scene](Screenshots/railway.png)
+![Railway Scene](Screenshots/screenshotsrailway.png)
 
 ---
 
 ## Metro Rail Scene
 
-![Metro Rail](Screenshots/metro.png)
+![Metro Rail](Screenshots/screenshotsmetro.png)
 
 ---
 
 ## Airport Scene
 
-![Airport](Screenshots/airport.png)
+![Airport](Screenshots/screenshotsairport.png)
 
 ---
 
 ## Smart City Scene
 
-![City](Screenshots/city.png)
+![City](Screenshots/screenshotscity.png)
